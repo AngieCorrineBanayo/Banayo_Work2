@@ -1,0 +1,7 @@
+C:\Users\VGD-A2\Desktop\Banayo_Int.Work2\Banayo_Work 2\Banayo_Work 2\bin\Debug\Banayo_Work 2.exe.config
+C:\Users\VGD-A2\Desktop\Banayo_Int.Work2\Banayo_Work 2\Banayo_Work 2\bin\Debug\Banayo_Work 2.exe
+C:\Users\VGD-A2\Desktop\Banayo_Int.Work2\Banayo_Work 2\Banayo_Work 2\bin\Debug\Banayo_Work 2.pdb
+C:\Users\VGD-A2\Desktop\Banayo_Int.Work2\Banayo_Work 2\Banayo_Work 2\obj\Debug\Banayo_Work 2.csproj.AssemblyReference.cache
+C:\Users\VGD-A2\Desktop\Banayo_Int.Work2\Banayo_Work 2\Banayo_Work 2\obj\Debug\Banayo_Work 2.csproj.CoreCompileInputs.cache
+C:\Users\VGD-A2\Desktop\Banayo_Int.Work2\Banayo_Work 2\Banayo_Work 2\obj\Debug\Banayo_Work 2.exe
+C:\Users\VGD-A2\Desktop\Banayo_Int.Work2\Banayo_Work 2\Banayo_Work 2\obj\Debug\Banayo_Work 2.pdb
